@@ -35,3 +35,7 @@ The notebook includes detailed explanations and visualizations of the model's pe
 - matplotlib
 - pandas
 - numpy
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
